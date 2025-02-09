@@ -3,7 +3,7 @@
 <!-- markdownlint-disable no-duplicate-header -->
 
 <div align="center">
-  <img src="./images/logo_name.svg?raw=true" width="60%" alt="Hemeai" />
+  <img src="./images/logo_name.svg?raw=true" width="100%" alt="Hemeai" />
 </div>
 <hr>
 
