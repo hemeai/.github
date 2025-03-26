@@ -3,7 +3,7 @@
 <!-- markdownlint-disable no-duplicate-header -->
 
 <div align="center">
-  <img src="https://github.com/hemeai/.github/blob/main/profile/images/logo_name.svg?raw=true" width="100%" alt="Hemeai" />
+  <img src="https://github.com/hemeai/.github/blob/main/profile/images/logo_with_name.svg?raw=true" width="100%" alt="Hemeai" />
 </div>
 <hr>
 
