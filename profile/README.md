@@ -116,7 +116,7 @@ The global BioEconomy will continue to grow rapidly in the upcoming decade. Curr
 
 Much of our work is based on open-source software, and we plan to open-source the tool, allowing everyone to use it and thereby accelerating research and development in the field of protein engineering. 
 
-If this mission excites you, too, please reach out @ [hi@hemeai.com](mailto:hi@hemeai.com)
+If this mission also excites you, please reach out @ [hi@hemeai.com](mailto:hi@hemeai.com)
 
 Thanks  
 Satish 
