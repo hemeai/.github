@@ -116,15 +116,14 @@ The global BioEconomy will continue to grow rapidly in the upcoming decade. Curr
 
 Much of our work is based on open-source software, and we plan to open-source the tool, allowing everyone to use it and thereby accelerating research and development in the field of protein engineering. 
 
-If this also excites you, please reach out.
+If this mission excites you, too, please reach out @ [hi@hemeai.com](mailto:hi@hemeai.com)
 
 Thanks  
-Satish  
-\+919650975584  
-[satish@hemeai.com](mailto:satish@hemeai.com)
+Satish 
+
 
 [^1]:  Currently, more than 50+ [companies](https://harrisbio.notion.site/) are focusing on different aspects. 
 
 [^2]: If we get lucky;  Here, Hit refers to a protein (antibody, enzymes, or binders)
 
-[^3]:  Here language implies protein sequence made up of string of amino acids
+[^3]:  Here, language implies a protein sequence made up of a string of amino acids
