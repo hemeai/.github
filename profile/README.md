@@ -36,7 +36,10 @@ The process looks like the following:
   <img src="https://github.com/hemeai/.github/blob/main/profile/images/design_process.png" width="90%" alt="design process" />
 </div>
 
+<hr>
+
 <p align="justify">
+
 **How does the computational part work?**  
 We take the foundational protein model and run it in reverse to generate novel proteins. We hallucinate the model by providing certain metrics to optimize and create a structure that resembles a protein. Surprisingly, upon further optimization of the amino acid sequence, the generated protein begins to function in the real world. This process is known as hallucination. Other models operate differently and have their nuances. However, the basic fact remains that large structure prediction models can be inverted and run in reverse to create novel artifacts. This field is also known as protein design and engineering.
 
@@ -52,6 +55,7 @@ There are various large models for research and commercial purposes. Few compani
 | 4      | Enzyme                    | ZymCTRL, ProteinMPNN               |
 
 <p align="justify">
+
 **How does the experimental part work?**  
 The designed protein (string of amino acid sequence) needs to be converted into DNA. This DNA needs to be inserted into the bacteria; this process is known as molecular cloning. The bacteria are cultured on a medium, and the desired proteins are purified. These purified proteins (enzymes, antibodies, or binders) can be used for further testing and analysis.
 
@@ -62,13 +66,16 @@ HemeAI is focused on protein design and engineering. We aim to apply recent adva
 </p>
 
 <p align="justify">
+
 1. [Snake venoms](https://github.com/hemeai/ToxBind) – develop a de novo binder to neutralize the toxin, which can be produced in large quantities without needing the animals. De novo proteins are well-characterized, cheaper, and faster to produce. A developed understanding of this will also help target other classes of toxins. Snake bites remain a significant health burden in developing nations. Access to the right treatment is still precarious and expensive. If we succeed in creating, then it will be a huge breakthrough.
 
 1. [Snake venoms](https://github.com/hemeai/ToxBind) – develop a de novo binder to neutralize the toxin, which can be produced in large quantities without needing the animals. De novo proteins are well-characterized, cheaper, and faster to produce. A developed understanding of this will also help target other classes of toxins. Snake bites remain a significant health burden in developing nations. Accessibility to the right treatment is still precarious and expensive. If we succeed in creating, then it will be a huge breakthrough.
 1. Plastic-degrading enzymes – Developing enzymes that can digest different types of plastics. Plastic pollution is already a significant environmental crisis, and enzymes may play a crucial role in addressing it.
+
 </p>
 
 <p align="justify">
+
 Much of our work is based on open-source software, and we plan to open-source the tool for everyone to use, thereby accelerating research and development in the field of protein engineering.
 
 If this mission also excites you, please reach out @ [hi@hemeai.com](mailto:hi@hemeai.com)
