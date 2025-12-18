@@ -10,7 +10,7 @@
 AI will have a profound impact on society – it already is. One of the flourishing[^1] areas of AI research is computational biology, where AI has already made a monumental impact. The progress of biology is no longer hindered by the most significant problem – protein folding, which has kept the field back for at least 50 years. What seemed impossible to solve a few years ago is now a reality. Someone described AlphaFold2 as the Cambrian explosion event of biology, and I would partially concur with that description. Ever since then, the field has been accelerating at an unprecedented rate. We have come a long way; the progress is not limited to just sequence-to-structure prediction, but the inverting protein prediction model has allowed us to create de novo proteins that don’t exist in nature. In my opinion, this is the most significant development in recent biological history. We can create new and novel enzymes to optimize chemical and biological processes, design antibodies, develop cheaper antidotes to snake venoms and gain a deeper understanding of different disease modalities. The possibilities seem endless.
 
 <div align="center">
-  <img src="https://github.com/hemeai/.github/blob/main/profile/images/landscape.png" width="75%" alt="design process" />
+  <img src="https://github.com/hemeai/.github/blob/main/profile/images/landscape.png" width="60%" alt="design process" />
 </div>
 
 However, biology is inherently complex. Our understanding of most diseases is still limited, and the success rate of new drug discovery is very low. AI's possibilities won’t become a reality and reach their full potential unless we actively try to eliminate the challenges that come along the way. It needs a feedback loop.
@@ -26,7 +26,7 @@ The process looks like the following:
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 <div align="center">
-  <img src="https://github.com/hemeai/.github/blob/main/profile/images/design_process.png" width="100%" alt="design process" />
+  <img src="https://github.com/hemeai/.github/blob/main/profile/images/design_process.png" width="90%" alt="design process" />
 </div>
 
 **How does the computational part work?**  
