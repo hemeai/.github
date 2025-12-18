@@ -32,8 +32,8 @@ To accelerate progress, we need to fine-tune and adapt foundational models to sp
 
 The process looks like the following:
 
-| Base the hypothesis → Get the initial design → Iterate and narrow the search → Experimental testing → Get the experimental data → Filter and improve upon the designs → Hit[^2] |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Base the hypothesis → Get the initial design → Iterate and narrow the search → Experimental testing → Get the experimental data → Filter and improve upon the designs → Hit <sup><a href="#ref-2">2</a></sup> |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 <div align="center">
   <img src="https://github.com/hemeai/.github/blob/main/profile/images/design_process.png" width="90%" alt="design process" />
@@ -43,19 +43,20 @@ The process looks like the following:
 
 **How does the computational part work?**
 
-<div align="justify">
+<p align="justify">
 We take the foundational protein model and run it in reverse to generate novel proteins. We hallucinate the model by providing certain metrics to optimize and create a structure that resembles a protein. Surprisingly, upon further optimization of the amino acid sequence, the generated protein begins to function in the real world. This process is known as hallucination. Other models operate differently and have their nuances. However, the basic fact remains that large structure prediction models can be inverted and run in reverse to create novel artifacts. This field is also known as protein design and engineering.
+</p>
 
+<p align="justify">
 There are various large models for research and commercial purposes. Few companies have even started providing models as a service. The latter point also highlights the importance of having a deeper understanding of the specific problem. The following table displays several models and their corresponding types. However, the list is far from being exhaustive.
+</p>
 
-</div>
-
-| S. No. | Type                      | Models                             |
-| :----- | :------------------------ | :--------------------------------- |
-| 1      | Structure-based models    | AF2, Botz-1, AF3, Chai-1, Protenix |
-| 2      | Language-based models[^3] | ESM2                               |
-| 3      | Backbone generation model | RFDiffusion, RFAntibody, RFpeptide |
-| 4      | Enzyme                    | ZymCTRL, ProteinMPNN               |
+| S. No. | Type                                                    | Models                             |
+| :----- | :------------------------------------------------------ | :--------------------------------- |
+| 1      | Structure-based models                                  | AF2, Botz-1, AF3, Chai-1, Protenix |
+| 2      | Language-based models <sup><a href="#ref-3">3</a></sup> | ESM2                               |
+| 3      | Backbone generation model                               | RFDiffusion, RFAntibody, RFpeptide |
+| 4      | Enzyme                                                  | ZymCTRL, ProteinMPNN               |
 
 **How does the experimental part work?**
 
@@ -79,14 +80,14 @@ HemeAI is focused on protein design and engineering. We aim to apply recent adva
 
 </div>
 
-<div align="justify">
+<p align="justify">
 Much of our work is based on open-source software, and we plan to open-source the tool for everyone to use, thereby accelerating research and development in the field of protein engineering.
+</p>
 
 If this mission also excites you, please reach out @ [hi@hemeai.com](mailto:hi@hemeai.com)
 
-</div >
-
 <sup id="ref-1">1</sup> Currently, more than 50+ [companies](https://harrisbio.notion.site/) are focusing on different aspects.
 
-[^2]: If we get lucky; Here, Hit refers to a protein (antibody, enzymes, or binders)
-[^3]: Here language implies protein sequence made up of string of amino acids
+<sup id="ref-2">2</sup> If we get lucky; Here, Hit refers to a protein (antibody, enzymes, or binders)
+
+<sup id="ref-3">3</sup> Here language implies protein sequence made up of string of amino acids
