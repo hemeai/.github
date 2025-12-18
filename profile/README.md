@@ -55,9 +55,7 @@ HemeAI is focused on protein design and engineering. We aim to apply recent adva
 
 Much of our work is based on open-source software, and we plan to open-source the tool for everyone to use, thereby accelerating research and development in the field of protein engineering.
 
-Please let me know if you're interested and have some time to discuss this.
-
-[hi@hemeai.com](mailto:hi@hemeai.com)
+If this mission also excites you, please reach out @ [hi@hemeai.com](mailto:hi@hemeai.com)
 
 [^1]: Currently, more than 50+ [companies](https://harrisbio.notion.site/) are focusing on different aspects.
 [^2]: If we get lucky; Here, Hit refers to a protein (antibody, enzymes, or binders)
