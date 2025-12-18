@@ -41,14 +41,14 @@ The process looks like the following:
 
 <hr>
 
-<p align="justify">
+**How does the computational part work?**
 
-**How does the computational part work?**  
+<div align="justify">
 We take the foundational protein model and run it in reverse to generate novel proteins. We hallucinate the model by providing certain metrics to optimize and create a structure that resembles a protein. Surprisingly, upon further optimization of the amino acid sequence, the generated protein begins to function in the real world. This process is known as hallucination. Other models operate differently and have their nuances. However, the basic fact remains that large structure prediction models can be inverted and run in reverse to create novel artifacts. This field is also known as protein design and engineering.
 
 There are various large models for research and commercial purposes. Few companies have even started providing models as a service. The latter point also highlights the importance of having a deeper understanding of the specific problem. The following table displays several models and their corresponding types. However, the list is far from being exhaustive.
 
-</p>
+</div>
 
 | S. No. | Type                      | Models                             |
 | :----- | :------------------------ | :--------------------------------- |
@@ -57,38 +57,36 @@ There are various large models for research and commercial purposes. Few compani
 | 3      | Backbone generation model | RFDiffusion, RFAntibody, RFpeptide |
 | 4      | Enzyme                    | ZymCTRL, ProteinMPNN               |
 
+**How does the experimental part work?**
+
 <p align="justify">
-
-**How does the experimental part work?**  
 The designed protein (string of amino acid sequence) needs to be converted into DNA. This DNA needs to be inserted into the bacteria; this process is known as molecular cloning. The bacteria are cultured on a medium, and the desired proteins are purified. These purified proteins (enzymes, antibodies, or binders) can be used for further testing and analysis.
-
-Computation and experimentation complement each other; we can’t solely rely on the experimental process to filter, since the trial-and-error process is vastly costly. Additionally, it is fundamentally limited by resources. Similarly, the computational approach can’t solely filter useful proteins based on metrics. No matter how accurate the models are, they don’t guarantee the protein's functioning in the real world. Experimentation acts as feedback to guide the research direction. By combining the two, we unlock the superpower. The computation helps uncover uncanny patterns that we wouldn’t discover otherwise, and the experimentation helps narrow our focus. Also, it makes the research very exciting.
-
-HemeAI is focused on protein design and engineering. We aim to apply recent advances in the protein foundational model to create protein-based therapeutics. Our work will significantly advance the field of protein design and engineering, particularly in the areas of antibody and enzyme design. By developing in-house capabilities to design and test de novo proteins, we aim to contribute to the creation of more effective and accessible therapeutics.
-
 </p>
 
 <p align="justify">
+Computation and experimentation complement each other; we can’t solely rely on the experimental process to filter, since the trial-and-error process is vastly costly. Additionally, it is fundamentally limited by resources. Similarly, the computational approach can’t solely filter useful proteins based on metrics. No matter how accurate the models are, they don’t guarantee the protein's functioning in the real world. Experimentation acts as feedback to guide the research direction. By combining the two, we unlock the superpower. The computation helps uncover uncanny patterns that we wouldn’t discover otherwise, and the experimentation helps narrow our focus. Also, it makes the research very exciting.
+</p>
+
+<p align="justify">
+HemeAI is focused on protein design and engineering. We aim to apply recent advances in the protein foundational model to create protein-based therapeutics. Our work will significantly advance the field of protein design and engineering, particularly in the areas of antibody and enzyme design. By developing in-house capabilities to design and test de novo proteins, we aim to contribute to the creation of more effective and accessible therapeutics.
+</p>
+
+<div align="justify">
 
 1. [Snake venoms](https://github.com/hemeai/ToxBind) – develop a de novo binder to neutralize the toxin, which can be produced in large quantities without needing the animals. De novo proteins are well-characterized, cheaper, and faster to produce. A developed understanding of this will also help target other classes of toxins. Snake bites remain a significant health burden in developing nations. Access to the right treatment is still precarious and expensive. If we succeed in creating, then it will be a huge breakthrough.
 
-1. [Snake venoms](https://github.com/hemeai/ToxBind) – develop a de novo binder to neutralize the toxin, which can be produced in large quantities without needing the animals. De novo proteins are well-characterized, cheaper, and faster to produce. A developed understanding of this will also help target other classes of toxins. Snake bites remain a significant health burden in developing nations. Accessibility to the right treatment is still precarious and expensive. If we succeed in creating, then it will be a huge breakthrough.
-1. Plastic-degrading enzymes – Developing enzymes that can digest different types of plastics. Plastic pollution is already a significant environmental crisis, and enzymes may play a crucial role in addressing it.
+2. Plastic-degrading enzymes – Developing enzymes that can digest different types of plastics. Plastic pollution is already a significant environmental crisis, and enzymes may play a crucial role in addressing it.
 
-</p>
+</div>
 
-<p align="justify">
-
+<div align="justify">
 Much of our work is based on open-source software, and we plan to open-source the tool for everyone to use, thereby accelerating research and development in the field of protein engineering.
 
 If this mission also excites you, please reach out @ [hi@hemeai.com](mailto:hi@hemeai.com)
 
-</p>
+</div >
 
-<p id="ref-1">
-<sup>1</sup> Currently, more than 50+ [companies](https://harrisbio.notion.site/) are focusing on different aspects.
-</p>
+<sup id="ref-1">1</sup> Currently, more than 50+ [companies](https://harrisbio.notion.site/) are focusing on different aspects.
 
-[^1]: Currently, more than 50+ [companies](https://harrisbio.notion.site/) are focusing on different aspects.
 [^2]: If we get lucky; Here, Hit refers to a protein (antibody, enzymes, or binders)
 [^3]: Here language implies protein sequence made up of string of amino acids
