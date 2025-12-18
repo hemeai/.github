@@ -19,10 +19,10 @@ AI will have a profound impact on society – it already is. One of the flourish
 <hr>
 
 <p align="justify">
-However, biology is inherently complex. Our understanding of most diseases is still limited, and the success rate of new drug discovery is very low. AI's possibilities won’t become a reality and reach their full potential unless we actively try to eliminate the challenges that come along the way. It needs a feedback loop.
+However, biology is inherently complex. Our understanding of most diseases is still limited, and the success rate of new drug discovery is very low. AI's possibilities won’t become a reality and reach their full potential unless we actively try to eliminate the challenges that come along the way. It needs a feedback loop.</p>
 
+<p align="justify">
 To accelerate progress, we need to fine-tune and adapt foundational models to specific applications, learn what works, and apply it to particular applications. To develop successful therapeutics, we still require a significant amount of human intuition and a profound, underlying, multimodal understanding of biological processes. Most importantly, we have to combine the power of computational biology with high-throughput experimental biology. This process, known as 'wetlab-in-the-loop,' involves a continuous feedback loop between computational protein design and wet lab validations. This can be divided into primarily two parts:
-
 </p>
 
 1. Computational – Protein design & engineering
