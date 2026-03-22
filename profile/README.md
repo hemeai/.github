@@ -81,7 +81,7 @@ HemeAI is focused on protein design and engineering. We aim to apply recent adva
 </div>
 
 
-If this mission also excites you, please reach out @ [hi [at] hemeai.com](mailto:hi@hemeai.com)
+If this mission also excites you, please reach out @ hi [at] hemeai.com
 
 <sup id="ref-1">1</sup> Currently, more than 50+ [companies](https://harrisbio.notion.site/) are focusing on different aspects.
 
