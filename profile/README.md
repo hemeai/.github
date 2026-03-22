@@ -80,11 +80,8 @@ HemeAI is focused on protein design and engineering. We aim to apply recent adva
 
 </div>
 
-<p align="justify">
-Much of our work is based on open-source software, and we plan to open-source the tool for everyone to use, thereby accelerating research and development in the field of protein engineering.
-</p>
 
-If this mission also excites you, please reach out @ [hi@hemeai.com](mailto:hi@hemeai.com)
+If this mission also excites you, please reach out @ [hi [at] hemeai.com](mailto:hi@hemeai.com)
 
 <sup id="ref-1">1</sup> Currently, more than 50+ [companies](https://harrisbio.notion.site/) are focusing on different aspects.
 
