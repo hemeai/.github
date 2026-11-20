@@ -3,7 +3,7 @@
 <!-- markdownlint-disable no-duplicate-header -->
 
 <div align="center">
-  <img src="https://github.com/hemeai/.github/blob/main/profile/images/logo_with_name.svg?raw=true" width="100%" alt="Hemeai" />
+  <img src="https://github.com/hemeai/.github/blob/main/profile/images/banner.png?raw=true" width="100%" alt="Hemeai — Design the enzyme nature didn’t get to." />
 </div>
 
 <hr>
